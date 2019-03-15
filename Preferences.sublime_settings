@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"jsdocs_align_tags": "no",
+	"rulers":
+	[
+		80
+	],
+	"theme": "Default.sublime-theme",
+	"word_wrap": false,
+	"highlight_line": true,
+	"line_padding_top": 10,
+	"line_padding_bottom": 10
+}
